@@ -16,8 +16,8 @@ package com.example.yacineamouche.tvandroid
 
 object MovieList {
     val MOVIE_CATEGORY = arrayOf(
-            "Category Zero",
-            "Category One",
+            "Category Action",
+            "Category Sport",
             "Category Two",
             "Category Three",
             "Category Four",
